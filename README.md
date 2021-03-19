@@ -3,7 +3,7 @@
 #### Implementation of the paper [**Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks**](https://arxiv.org/pdf/1810.02851.pdf).
 
 
-![short-version](./presentation/tum-resources/images/logo.png)
+![Presentation](https://github.com/denyslazarenko/Paper-Implementation-Text-Summarization-using-GAN/blob/main/presentation/presentation.pdf)
 
 ## Sources
 1. [Code to obtain the CNN / Daily Mail dataset (non-anonymized) for summarization. Accessed: November 20, 2019](https://github.com/abisee/cnn-dailymail)    
